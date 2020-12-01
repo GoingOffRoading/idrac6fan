@@ -1,1 +1,1 @@
-# idrac6fan
+# Dynamic Fan Control of Dell r710 and Similar Idrac6 Equiped Dell Servers
